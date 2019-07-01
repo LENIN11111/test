@@ -7,4 +7,4 @@ async def aa(ctx):
     await ctx.send("@everyone")
 
 
-client.run("NTcyODUwMzM1NjM5NTM1NjI2.XRj6vg.bD7QPpy7K-6cTCT-a9zL6Smtys8")
+client.run("NTc3NDc3NzQ0OTM4NDUxMDA1.XRnaRA.jswCN_rejfFl34sez3PGAmidlC4")
